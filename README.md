@@ -6,9 +6,9 @@
 
 ## English
 
-I am a .NET developer focused on backend, legacy modernization, and automation. My experience includes C#, ASP.NET Core, SQL Server, PowerShell, and corporate system support, along with hands-on work in API integration, technical documentation, troubleshooting, and software evolution in real-world environments. [cite:126]
+I am a .NET developer focused on backend, legacy modernization, and automation. My experience includes C#, ASP.NET Core, SQL Server, PowerShell, and corporate system support, along with hands-on work in API integration, technical documentation, troubleshooting, and software evolution in real-world environments.
 
-Throughout my career, I have worked across web development, UI/UX, research and development, data curation, and .NET backend engineering, which gives me a broad and practical view of how systems are built, maintained, and modernized. Among my recent deliveries, I highlight the adaptation of the PJ Onboarding system to the new alphanumeric CNPJ format, operational automation with PowerShell, and support for legacy system modernization. [cite:126]
+Throughout my career, I have worked across web development, UI/UX, research and development, data curation, and .NET backend engineering, which gives me a broad and practical view of how systems are built, maintained, and modernized. Among my recent deliveries, I highlight the adaptation of the PJ Onboarding system to the new alphanumeric CNPJ format, operational automation with PowerShell, and support for legacy system modernization.
 
 ### Main technologies
 
@@ -40,9 +40,9 @@ Throughout my career, I have worked across web development, UI/UX, research and 
 
 ## Português
 
-Sou desenvolvedor .NET com foco em backend, modernização de sistemas legados e automação. Tenho experiência com C#, ASP.NET Core, SQL Server, PowerShell e sustentação de sistemas corporativos, além de atuação prática com integração de APIs, documentação técnica, troubleshooting e evolução de software em ambientes reais. [cite:126]
+Sou desenvolvedor .NET com foco em backend, modernização de sistemas legados e automação. Tenho experiência com C#, ASP.NET Core, SQL Server, PowerShell e sustentação de sistemas corporativos, além de atuação prática com integração de APIs, documentação técnica, troubleshooting e evolução de software em ambientes reais.
 
-Ao longo da minha trajetória, passei por desenvolvimento web, UI/UX, pesquisa e desenvolvimento, curadoria de dados e backend .NET, o que me deu uma visão ampla sobre como os sistemas são construídos, mantidos e modernizados. Entre as entregas recentes, destaco a adaptação do sistema de Onboarding PJ ao novo CNPJ Alfanumérico, automações operacionais com PowerShell e apoio à modernização de sistemas legados. [cite:126]
+Ao longo da minha trajetória, passei por desenvolvimento web, UI/UX, pesquisa e desenvolvimento, curadoria de dados e backend .NET, o que me deu uma visão ampla sobre como os sistemas são construídos, mantidos e modernizados. Entre as entregas recentes, destaco a adaptação do sistema de Onboarding PJ ao novo CNPJ Alfanumérico, automações operacionais com PowerShell e apoio à modernização de sistemas legados.
 
 ### Tecnologias principais
 
