@@ -20,7 +20,6 @@ Throughout my career, I have worked across web development, UI/UX, research and 
 - Entity Framework
 - Swagger / OpenAPI
 - Windows Applications
-- Legacy Modernization
 
 ### Current focus
 
@@ -54,7 +53,6 @@ Ao longo da minha trajetória, passei por desenvolvimento web, UI/UX, pesquisa e
 - Entity Framework
 - Swagger / OpenAPI
 - Windows Applications
-- Legacy Modernization
 
 ### Foco atual
 
