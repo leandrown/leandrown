@@ -27,7 +27,6 @@ Throughout my career, I have worked across web development, UI/UX, research and 
 - APIs and system integration
 - Legacy application modernization
 - Automation and utilities with PowerShell and C#
-- Windows applications
 
 ### Links
 
@@ -52,7 +51,6 @@ Ao longo da minha trajetória, passei por desenvolvimento web, UI/UX, pesquisa e
 - REST APIs
 - Entity Framework
 - Swagger / OpenAPI
-- Windows Applications
 
 ### Foco atual
 
@@ -60,7 +58,6 @@ Ao longo da minha trajetória, passei por desenvolvimento web, UI/UX, pesquisa e
 - APIs e integração de sistemas
 - Modernização de aplicações legadas
 - Automação e utilitários com PowerShell e C#
-- Aplicações Windows
 
 ### Links
 
