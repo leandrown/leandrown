@@ -1,6 +1,6 @@
 # Leandro Vieira
 
-**.NET Developer | C# | ASP.NET Core | SQL Server | Backend**
+**Software Engineer | .NET & C# | Backend | APIs | Automation | AI-Assisted Development**
 
 ---
 
